@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Courtney Gerver
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Pennsylvania State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include investigating memory, creativity, and cognitive aging using behavioral and neuroimaging methods.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Memory
+- Creativity
+- Cognitive Aging
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Cognitive Psychology
+    institution: The Pennsylvania State University
+    year: 2019
+  - course: B.S. in Psychology
+    institution: St. Thomas Aquinas College
+    year: 2017
+ # - course: BSc in Artificial Intelligence
+ #   institution: Massachusetts Institute of Technology
+ #   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,9 +56,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I earned a B.S. in psychology from St. Thomas Aquinas College in 2017 and a M.S. in cognitive psychology from the Pennsylvania State University in 2019. Currently, I am investigating the effects of aging on memory and creativity using fMRI and behavioral paradigms. In previous lines of work, I explored the longitudinal effects of exercise on cognition and aging, as well as investigated interaction effects of personality traits with related variables such as procrastination and social media. In my free time, I enjoy hiking, baking, and reading.
