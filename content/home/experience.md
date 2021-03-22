@@ -22,12 +22,9 @@ date_format = "Jan 2006"
   company = "Advisor: Nancy A. Dennis, Ph.D."
   company_url = ""
   location = ""
-  date_start = "2017"
+  date_start = "2017-06-01"
   date_end = ""
   description = """Empirically examine the effects of cognitive aging on associative and false memories using fMRI."""
-
-# * Collect, clean, analyze, and visualize neuroimaging and behavioral data to examine the effects of aging on memory
-# * Lead team of 15 research assistants across two universities (Penn State University and Elon University) in data collection and analysis of multiple studies and technologies, including fMRI and eye-tracking
 
   """
 
