@@ -26,8 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Empirically examine the effects of cognitive aging on associative and false memories using fMRI."""
 
-  """
-
 [[experience]]
   title = "Professor"
   company = "University X"
