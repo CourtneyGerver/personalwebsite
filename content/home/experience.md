@@ -25,9 +25,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017"
   date_end = ""
-<<<<<<< HEAD
-  description = ""Empirically examine the effects of cognitive aging on associative and false memories using fMRI.""
-=======
   description = """Empirically examine the effects of cognitive aging on associative and false memories using fMRI."""
 
   """
