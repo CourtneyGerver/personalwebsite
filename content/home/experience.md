@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """Empirically examine the effects of cognitive aging on associative and
 false memories using fMRI."""
 
-* Collect, clean, analyze, and visualize neuroimaging and behavioral data to examine the effects of aging on memory
-* Lead team of 15 research assistants across two universities (Penn State University and Elon University) in data collection and analysis of multiple studies and technologies, including fMRI and eye-tracking
+# * Collect, clean, analyze, and visualize neuroimaging and behavioral data to examine the effects of aging on memory
+# * Lead team of 15 research assistants across two universities (Penn State University and Elon University) in data collection and analysis of multiple studies and technologies, including fMRI and eye-tracking
 
   """
 
