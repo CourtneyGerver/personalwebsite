@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Temple University"
   date_start = "2015"
-  date_end = " "
+  date_end = "2015"
   description = """Examine the developmental trajectory of spatial and mathematical abilities in children."""
 
 +++
