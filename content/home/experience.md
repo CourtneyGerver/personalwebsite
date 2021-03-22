@@ -26,31 +26,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Empirically examine the effects of cognitive aging on associative and false memories using fMRI."""
 
-[[experience]]
-  title = "The Pennsylvania State University"
-  company = "Advisor: Roger E. Beaty, Ph.D."
-  company_url = ""
-  location = ""
-  date_start = "2019"
-  date_end = ""
-  description = """Examine the link between memory and creativity."""
-  
-[[experience]]
-  title = "The Pennsylvania State University"
-  company = "Advisor: Jonathan G. Hakun, Ph.D."
-  company_url = ""
-  location = ""
-  date_start = "2018"
-  date_end = "2019"
-  description = """Validate ambulatory assessments of thoughts and cognitive abilities."""
-  
-[[experience]]
-  title = "NSF Research Experience for Undergraduates Research Assistant"
-  company = "Advisor: Elizabeth A. Gunderson, Ph.D."
-  company_url = ""
-  location = "Temple University"
-  date_start = "2015"
-  date_end = "2015"
-  description = """Examine the developmental trajectory of spatial and mathematical abilities in children."""
-
 +++
