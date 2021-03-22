@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "The Pennsylvania State University"
-  company = "Advisor: Jonathan G. Hakun, Ph.D. "
+  company = "Advisor: Jonathan G. Hakun, Ph.D."
   company_url = ""
   location = ""
   date_start = "2018"
