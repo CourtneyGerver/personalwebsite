@@ -27,8 +27,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Examine the effects of cognitive aging on associative and false memories using fMRI."""
 
-  """
-
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Advisor: Roger E. Beaty, Ph.D."
