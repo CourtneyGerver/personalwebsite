@@ -55,24 +55,24 @@ date_format = "Jan 2006"
   description = """Examined the developmental trajectory of spatial and mathematical abilities in children."""
   
 [[experience]]
-  title = "Undergraduate Research Experience"
-  company_url = "Advisor:  Anna MacKay-Brandt, Ph.D."
+  title = "Undergraduate Research Assistant"
+  company = "Advisor:  Anna MacKay-Brandt, Ph.D."
   location = "Nathan S. Kline Institute for Psychiatric Research"
   date_start = "2015-12-01"
   date_end = "2017-06-01"
   description = """Investigated the longitudinal effects of aging using a cognitive battery, VO2 Max, and fMRI."""
   
 [[experience]]
-  title = "Undergraduate Research Experience"
-  company_url = "Advisor:  Susan K. Marell, Ph.D."
+  title = "Undergraduate Research Assistant"
+  company = "Advisor:  Susan K. Marell, Ph.D."
   location = "St. Thomas Aquinas College"
   date_start = "2016-09-01"
   date_end = "2017-05-01"
   description = """Examined the relationship between conscientiousness, happiness, and procrastination."""
   
 [[experience]]
-  title = "Undergraduate Research Experience"
-  company_url = "Advisor:  Benjamin C. Wagner, Ph.D."
+  title = "Undergraduate Research Assistant"
+  company = "Advisor:  Benjamin C. Wagner, Ph.D."
   location = "St. Thomas Aquinas College"
   date_start = "2015-09-01"
   date_end = "2016-08-01"

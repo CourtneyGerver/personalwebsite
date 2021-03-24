@@ -21,7 +21,7 @@ subtitle = ""
 #  description = "90%"
   
 [[feature]]
-  icon = "ckeyboard"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "MATLAB"
 #  description = "100%"  
@@ -33,9 +33,15 @@ subtitle = ""
 #  description = "10%"
 
 [[feature]]
-  icon = "head-side-profile"
+  icon = "head-side-virus"
   icon_pack = "fas"
   name = "FSL"
+#  description = "10%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Psychopy"
 #  description = "10%"
 
 # Uncomment to use emoji icons.
