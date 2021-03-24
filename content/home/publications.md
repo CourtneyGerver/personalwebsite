@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "memory"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Gerver et al."
     exclude_featured = false
   
 [design]
