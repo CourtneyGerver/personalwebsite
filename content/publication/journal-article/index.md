@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "Examining the Neural Basis of Congruent and Incongruent Configural Contexts during Associative Retrieval"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Courtney R. Gerver
+- Amy A. Overman
+- Harini J. Babu
+- Chloe E. Hultman
+- Nancy A. Dennis
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2020-09-01T00:00:00Z"
+doi: "https://doi.org/10.1162/jocn_a_01593"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Cognitive Neuroscience, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Disrupting the configural context, or relative organization and orientation of paired stimuli, between encoding and retrieval negatively impacts memory. Using univariate and multivariate fMRI analyses, we examined the effect of retaining and manipulating the configural context on neural mechanisms supporting associative retrieval. Behavioral results showed participants had significantly higher hit rates for recollecting pairs in a contextually congruent, versus incongruent, configuration. In addition, contextual congruency between memory phases was a critical determinant to characterizing both the magnitude and patterns of neural activation within visual and parietal cortices. Regions within visual cortices also exhibited higher correlations between patterns of activity at encoding and retrieval when configural context was congruent across memory phases than incongruent. Collectively, these findings shed light on how manipulating configural context between encoding and retrieval affects associative recognition, with changes in the configural context leading to reductions in information transfer and increases in task difficulty.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Manipulating configural context between encoding and retrieval affects associative recognition, with changes in the configural context leading to reductions in information transfer and increases in task difficulty.
 
 tags:
 - Source Themes
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://direct.mit.edu/jocn/article/32/9/1796/95495/Examining-the-Neural-Basis-of-Congruent-and
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,12 +68,12 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Slides* button above to demo Academic's Markdown slides feature.
+#{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
