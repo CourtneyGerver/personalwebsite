@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Grad School Application Info"
-  url = "files/gradSchoolAppGuide.pdf"
+  url = "static/files/gradSchoolAppGuide.pdf"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "Download CV"
-    url = "files/GerverCV.pdf"
+    url = "static/files/GerverCV.pdf"
     weight = 1000
