@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Undergraduate Resources"
-  url = "#UndergraduateResources"
+  name = "Grad School Resources"
+  url = "files/grad-school-resources.pdf"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
